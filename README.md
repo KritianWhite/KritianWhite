@@ -52,4 +52,4 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
 
 
 ## Contáctame
-Puedes contactarme a través de mi correo electrónico [blancochristian7@gmail.com](mailto:blancochristian7@gmail.com).
+Puedes contactarme a través de mi [correo electrónico](mailto:blancochristian7@gmail.com).
