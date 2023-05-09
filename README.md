@@ -1,14 +1,18 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub
 
-**KritianWhite/KritianWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona la programación y me gusta trabajar en proyectos desafiantes que me permitan aprender cosas nuevas y mejorar mis habilidades.
 
-I am a student of 5th and 6th semester of Science and Systems Engineering. I am a person with the virtue of organization and discipline, responsible and honest. I have knowledge in product count auditing, web development, object oriented programming, data structure and design patterns.
+## Habilidades
+- Lenguajes de programación: Java, Python, JavaScript, HTML, CSS
+- Frameworks y bibliotecas: React, Angular, Spring, Flask
+- Bases de datos: MySQL, MongoDB, PostgreSQL
+- Herramientas de desarrollo: Git, Visual Studio Code, IntelliJ IDEA, Android Studio
 
-## &#x1f4c8; GitHub Stats
+## Proyectos destacados
+- [Proyecto MFM-Script](https://github.com/KritianWhite/OLC1-202000173/tree/main/Proyecto%202): Uso y aplicación sobre patrones de diseño.
+- [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Machine Learning sensillo, usando redes neuronales, regresion lineal, regresion polinomial, clasificador de arboles y clasificador gaussiano.
+- [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarización con el uso de archivos XML.
 
-<a href="https://github.com/KritianWhite/KritianWhite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritianWhite&hide=scss,css,tex&theme=aura_dark" />
-</a>
-<a href="https://github.com/KritianWhite/KritianWhite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Christian's GitHub Stats" />
-</a>
+## Contáctame
+Puedes contactarme a través de mi [sitio web](https://mi-sitio-web.com) o mi correo electrónico [blancochristian7@gmail.com](mailto:blancochristian7@gmail.com).
