@@ -16,7 +16,8 @@ Soy un desarrollador de software con experiencia en el desarrollo de aplicacione
 ## Proyectos destacados
 - [Proyecto MFM-Script](https://github.com/KritianWhite/OLC1-202000173/tree/main/Proyecto%202): Uso y aplicación sobre patrones de diseño.
 - [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Machine Learning sencillo, usando redes neuronales, regresion lineal, regresion polinomial, clasificador de arboles y clasificador gaussiano.
-- [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarización con el uso de archivos XML.
+- [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarización con el uso de archivos XML y Django.
+- [Proyecto Lenguajes](https://github.com/KritianWhite/LFP_PY1_202000173): Creación de un analizador léxico sin herramientas.
 
 ## Lenguajes y herramientas
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3APython&type=Repositories)
