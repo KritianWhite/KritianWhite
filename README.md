@@ -44,9 +44,9 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
 <!-- <a href="https://github.com/KritianWhite/KritianWhite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritianWhite&hide=scss,css,tex&theme=aura_dark" />
 </a> -->
-<a href="https://github.com/KritianWhite?tab=repositories">
+<!-- <a href="https://github.com/KritianWhite?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Christian's GitHub Stats" />
-</a>
+</a> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)  
 
