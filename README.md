@@ -39,5 +39,14 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](#)
 [![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)](#)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/KritianWhite/KritianWhite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KritianWhite&hide=scss,css,tex&theme=aura_dark" />
+</a>
+<a href="https://github.com/KritianWhite/KritianWhite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Christian's GitHub Stats" />
+</a>
+
 ## Contáctame
 Puedes contactarme a través de mi correo electrónico [blancochristian7@gmail.com](mailto:blancochristian7@gmail.com).
