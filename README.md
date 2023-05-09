@@ -48,7 +48,8 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Christian's GitHub Stats" />
 </a> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/KritianWhite)
 
 
 ## Contáctame
