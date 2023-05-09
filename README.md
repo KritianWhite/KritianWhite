@@ -34,6 +34,7 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
 
 ## IDES
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![NetBeans 8.2](https://img.shields.io/badge/-NetBeans%208.2-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](#)
 [![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)](#)
