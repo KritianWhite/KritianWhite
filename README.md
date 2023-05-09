@@ -49,7 +49,8 @@ Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaci
 </a> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/KritianWhite)
+<br>
+<!-- ![Profile views](https://gpvc.arturio.dev/KritianWhite) -->
 
 
 ## Contáctame
