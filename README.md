@@ -26,6 +26,7 @@ Soy un desarrollador de software con experiencia en el desarrollo de aplicacione
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AC%2B%2B&type=Repositories)
 [![VB.Net](https://img.shields.io/badge/-VB.Net-512BD4?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3Avb.net&type=Repositories)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3ADockerfile&type=Repositories)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AHTML&type=Repositories)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
 
