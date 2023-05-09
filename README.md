@@ -32,6 +32,9 @@ Soy un desarrollador de software con experiencia en el desarrollo de aplicacione
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/KritianWhite)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://github.com/KritianWhite)
 [![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/KritianWhite)
+## Lenguajes
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AJava&type=Repositories)
+
 
 ## Contáctame
 Puedes contactarme a través de mi correo electrónico [blancochristian7@gmail.com](mailto:blancochristian7@gmail.com).
