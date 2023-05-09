@@ -25,16 +25,16 @@ Soy un desarrollador de software con experiencia en el desarrollo de aplicacione
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AJava&type=Repositories)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AC%2B%2B&type=Repositories)
 [![VB.Net](https://img.shields.io/badge/-VB.Net-512BD4?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3Avb.net&type=Repositories)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AMySQL&type=Repositories)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AHTML&type=Repositories)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AJavaScript+topic%3Areact&type=Repositories)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
 
 
 ## IDES
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)]
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)]
-[![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)]
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](#)
+[![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visual-studio&logoColor=white)](#)
 
 ## Contáctame
 Puedes contactarme a través de mi correo electrónico [blancochristian7@gmail.com](mailto:blancochristian7@gmail.com).
