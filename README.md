@@ -11,7 +11,7 @@ Soy un desarrollador de software con experiencia en el desarrollo de aplicacione
 
 ## Proyectos destacados
 - [Proyecto MFM-Script](https://github.com/KritianWhite/OLC1-202000173/tree/main/Proyecto%202): Uso y aplicación sobre patrones de diseño.
-- [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Machine Learning sensillo, usando redes neuronales, regresion lineal, regresion polinomial, clasificador de arboles y clasificador gaussiano.
+- [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Machine Learning sencillo, usando redes neuronales, regresion lineal, regresion polinomial, clasificador de arboles y clasificador gaussiano.
 - [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarización con el uso de archivos XML.
 
 ## Contáctame
