@@ -1,7 +1,7 @@
 # Bienvenido a mi perfil de GitHub
 
 ## Acerca de mí
-Soy un desarrollador de software Jr con experiencia en el desarrollo de aplicaciones web. Me apasiona la programación y me gusta trabajar en proyectos desafiantes que me permitan aprender cosas nuevas y mejorar mis habilidades.
+Soy un Desarrollador Jr con experiencia en el desarrollo de aplicaciones web. Me apasiona la programación y me gusta trabajar en proyectos desafiantes que me permitan aprender cosas nuevas y mejorar mis habilidades.
 
 ## Habilidades
 - Auditoría de conteo en productos.
