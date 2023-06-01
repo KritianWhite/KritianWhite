@@ -48,7 +48,7 @@ Soy un Desarrollador Jr con experiencia en el desarrollo de aplicaciones web. Me
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true&line_height=27&count_private=true&theme=aura_dark" alt="Christian's GitHub Stats" />
 </a> -->
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KritianWhite&show_icons=true)
 <br>
 <!-- ![Profile views](https://gpvc.arturio.dev/KritianWhite) -->
 
