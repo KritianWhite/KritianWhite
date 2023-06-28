@@ -31,6 +31,20 @@ I am a Jr Developer with experience in web application development. I am passion
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AHTML&type=Repositories)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
 
+# Amazon Web Services (AWS)
+
+![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png)
+
+Amazon Web Services (AWS) is a cloud services platform that offers a wide range of services to help you build, deploy, and scale applications and services in a secure and reliable manner.
+
+# Amazon Web Services (AWS)
+
+![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png)
+
+## Key Services
+
+- **Amazon EC2** (Elastic Compute Cloud): Provides scalable compute capacity in the cloud, allowing you to run applications on virtual machines.
+- **Amazon S3** (Simple Storage Service): Offers scalable and highly durable object storage for data and media content.
 
 ## IDES
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
