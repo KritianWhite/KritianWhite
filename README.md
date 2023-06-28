@@ -35,12 +35,6 @@ I am a Jr Developer with experience in web application development. I am passion
 
 ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png)
 
-Amazon Web Services (AWS) is a cloud services platform that offers a wide range of services to help you build, deploy, and scale applications and services in a secure and reliable manner.
-
-# Amazon Web Services (AWS)
-
-![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png)
-
 ## Key Services
 
 - **Amazon EC2** (Elastic Compute Cloud): Provides scalable compute capacity in the cloud, allowing you to run applications on virtual machines.
