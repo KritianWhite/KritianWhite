@@ -1,25 +1,25 @@
-# Bienvenido a mi perfil de GitHub
+## Welcome to my GitHub profile
 
-## Acerca de mí
-Soy un Desarrollador Jr con experiencia en el desarrollo de aplicaciones web. Me apasiona la programación y me gusta trabajar en proyectos desafiantes que me permitan aprender cosas nuevas y mejorar mis habilidades.
+## About me
+I am a Jr Developer with experience in web application development. I am passionate about programming and enjoy working on challenging projects that allow me to learn new things and improve my skills.
 
-## Habilidades
-- Auditoría de conteo en productos.
-- Desarrollo web.
-- Programación orientada a objetos (POO).
-- Estructura de datos.
-- Patrones de diseño.}
-- Base de datos (MySQL).
-- Servicios en la nube (Docker y AWS).
-- Herramientas de desarrollo: Git, Visual Studio Code, IntelliJ IDEA, Visual Studio 2022.
+## Skills
+- Product count auditing.
+- Web development.
+- Object-oriented programming (OOP).
+- Data structure.
+- Design patterns.}
+- Database (MySQL).
+- Cloud services (Docker and AWS).
+- Development tools: Git, Visual Studio Code, IntelliJ IDEA, Visual Studio 2022.
 
-## Proyectos destacados
-- [Proyecto MFM-Script](https://github.com/KritianWhite/OLC1-202000173/tree/main/Proyecto%202): Uso y aplicación sobre patrones de diseño.
-- [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Machine Learning sencillo, usando redes neuronales, regresion lineal, regresion polinomial, clasificador de arboles y clasificador gaussiano.
-- [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarización con el uso de archivos XML y Django.
-- [Proyecto Lenguajes](https://github.com/KritianWhite/LFP_PY1_202000173): Creación de un analizador léxico sin herramientas.
+## Featured projects
+- [Proyecto MFM-Script](https://github.com/KritianWhite/OLC1-202000173/tree/main/Proyecto%202): Use and application on design patterns.
+- [Proyecto Ciencia de datos](https://github.com/KritianWhite/OLC2-Proyecto2-202000173): Simple Machine Learning, using neural networks, linear regression, polynomial regression, tree classifier and Gaussian classifier.
+- [Proyecto clasificación de mensajes](https://github.com/KritianWhite/IPC2_Proyecto3_202000173): Familiarization with XML files and Django.
+- [Proyecto Lenguajes](https://github.com/KritianWhite/LFP_PY1_202000173): Creation of a lexical analyzer without tools.
 
-## Lenguajes y herramientas
+## Languages and tools
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3APython&type=Repositories)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AJavaScript&type=Repositories)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3ATypeScript&type=Repositories)
@@ -53,5 +53,5 @@ Soy un Desarrollador Jr con experiencia en el desarrollo de aplicaciones web. Me
 <!-- ![Profile views](https://gpvc.arturio.dev/KritianWhite) -->
 
 
-## Contáctame
-Puedes contactarme a través de mi [correo electrónico](mailto:blancochristian7@gmail.com).
+## Contact me
+You can contact me through my [email address].(mailto:blancochristian7@gmail.com).
