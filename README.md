@@ -8,7 +8,7 @@ I am a Jr Developer with experience in web application development. I am passion
 - Web development.
 - Object-oriented programming (OOP).
 - Data structure.
-- Design patterns.}
+- Design patterns.
 - Database (MySQL).
 - Cloud services (Docker and AWS).
 - Development tools: Git, Visual Studio Code, IntelliJ IDEA, Visual Studio 2022.
