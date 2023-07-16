@@ -63,3 +63,5 @@ I am a Jr Developer with experience in web application development. I am passion
 
 ## Contact me
 You can contact me through my [email address](mailto:blancochristian7@gmail.com).
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
