@@ -30,6 +30,7 @@ I am a Jr Developer with experience in web application development. I am passion
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3ADockerfile&type=Repositories)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3AKritianWhite+language%3AHTML&type=Repositories)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/angular-6.1.4-61DAFB?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 # Amazon Web Services (AWS)
 
